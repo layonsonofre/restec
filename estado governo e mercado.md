@@ -3,7 +3,10 @@
 ### A formação da matriz do pensamento liberal
 #### Atividades de aprendizagem e [AVA] Atividade 1
 1. Aponte três aspectos fundamentais da matriz liberal.
-    A ideia de que a vida em sociedade pacífica não é o ambiente natural do homem, vivendo este sempre em estado de guerra; Defesa dos direitos naturais, como a preservação da liberdade e da propriedade, acima de todas as coisas; Exercício do poder político através de representação popular, com garantia do direito de expressão para as minorias nas assembléias.
+    Toda a matriz liberal é fundamentada na corrente filosófica chamada jusnaturalismo, cujo alicerce se deu através das ideias de quatro principais pensadores, consistindo-se pela busca no indivíduo a origem do Direito e da ordem política legítima. As três características essenciais são:
+    - A ideia de que a vida em sociedade pacífica não é o ambiente natural do homem, vivendo este sempre em estado de guerra. Assim, se faz necessário a presença de um Estado soberano que proteja e de segurança à população;
+    - Defesa dos direitos naturais, como a preservação da liberdade e da propriedade, acima de todas as coisas e os quais todos os indivíduos não podem abdicar, sendo o Estado obrigado a garantir esses direitos através dos meios necessários.
+    - Exercício do poder político através de representação popular, com garantia do direito de expressão para as minorias nas assembleias, caracterizando-o como poder legítimo delegado pelos governados e consagrando o princípio da soberania popular.
 
 #### Anotações
 
@@ -32,5 +35,5 @@ ___
     |---|---|---|---|
     |Liberal|O Estado interfere apenas o suficiente para garantir a liberdade e igualdade dos cidadãos, como manutenção e zelo da lei e da ordem, a defesa do integridade e interesses do país e de seu povo. De acordo com o pensamento liberal, os representantes são escolhidos de maneira democrática, sendo o governo obrigado à prestar contas para a sociedade, porém a partir do sufrágio universal masculino|O mercado seria autorregulável, isolando economia de política, com participação do Estado apenas posteriormente quando ameaçados os direitos e integridade das pessoas|Individuos vivem em uma sociedade livre e independente, somente submetidos à lei. Para tal, fez-se uso do recolhimento de impostos, administração do patrimônio e finanças públicas, além da emissão de moedas para utilização como meio de troca no mercado|
     |Socialista|A partir do total controle econômico e social, praticaram-se planos de desenvolvimento industrial e investimentos, a ponto de se tornar uma potência mundial em pouco tempo. Países ocupados seriam também submetidos à mesma forma de governo. Interesses da maioria eram defendidos através do Partido Comunista|Submetido à regulação estatal já que todas as atividades econômicas estavam sob rígido controle|Negação dos direitos à propriedade privada e liberdade econômica, fortemente voltado para a valorização da maioria trabalhadora. Qualquer transgressão, qualquer discordância com a forma de governo seria considerada traição e punida. A igualdade social, porém, traria a escassez de produtos básicos de alimentação e higiene pessoal|
-    |Bem-estar social|Mudança dos paradigmas, onde o Estado passa a ser provedor da igualdade social e isso passa a ser vista de maneira positiva pela sociedade|---||
+    |Bem-estar social|Mudança dos paradigmas, onde o Estado passa a ser provedor da igualdade social e isso passa a ser vista de maneira positiva pela sociedade|Regulação estatal no mercado, criação de leis e restrições trabalhistas||
     |Neoliberal|---|---|---|
